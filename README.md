@@ -5,3 +5,6 @@
 
 ## Technology:
 - GPT-2
+- TF-IDF
+- Cosine similarity
+- Gradio
