@@ -1,0 +1,13 @@
+transformers
+datasets
+torch
+pandas
+scikit-learn
+gradio
+python-pptx
+googletrans==4.0.0-rc1
+PyMuPDF
+reportlab
+sentence-transformers
+faiss-gpu
+fpdf
